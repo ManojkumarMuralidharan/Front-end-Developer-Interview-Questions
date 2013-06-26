@@ -257,3 +257,9 @@ $(".foo div#bar:eq(0)")
 * Complete this sentence: Brendan Eich and Doug Crockford are the __________ of javascript.
 * jQuery: a great library or the greatest library? Discuss.
 * http://www.w3schools.com/ or http://w3fools.com/
+* 
+References:
+
+JavaScript
+Invocation Patterns-
+http://doctrina.org/Javascript-Function-Invocation-Patterns.html
