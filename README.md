@@ -263,3 +263,6 @@ References:
 JavaScript
 Invocation Patterns-
 http://doctrina.org/Javascript-Function-Invocation-Patterns.html
+
+Memoization
+http://addyosmani.com/blog/faster-javascript-memoization/
