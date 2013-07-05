@@ -266,3 +266,6 @@ http://doctrina.org/Javascript-Function-Invocation-Patterns.html
 
 Memoization
 http://addyosmani.com/blog/faster-javascript-memoization/
+
+Hoisting
+http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html
