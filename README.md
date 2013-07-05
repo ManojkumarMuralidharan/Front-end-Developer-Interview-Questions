@@ -269,3 +269,6 @@ http://addyosmani.com/blog/faster-javascript-memoization/
 
 Hoisting
 http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html
+
+Quiz:
+http://dmitry.baranovskiy.com/
